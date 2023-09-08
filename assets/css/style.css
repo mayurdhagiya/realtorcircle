@@ -1345,15 +1345,16 @@ main .call-action {
 
 /*# sourceMappingURL=style.css.map */
 
-main .container1{
+ .downloadbutton{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
-  padding: 4vw 5vw;
+  margin-left: 10%;
+  width: 80%;
+  padding: 5vw 5vw;
 }
 
-main .container1 .download-btn{
+ .download-btn{
   background-color: DodgerBlue;
   color: white;
   padding: 1rem 2rem;
@@ -1362,6 +1363,6 @@ main .container1 .download-btn{
   border-radius:5px;
 }
 
-main .container1 .download-btn:hover {
+ .download-btn:hover {
   background-color: RoyalBlue;
 }
