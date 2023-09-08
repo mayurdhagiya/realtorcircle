@@ -1002,7 +1002,7 @@ p {
 }
 
 .header {
-  position: absolute;
+  position: flex;
   top: 40px;
   left: 0;
   width: 100%;
@@ -1344,3 +1344,37 @@ main .call-action {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* ICON */
+
+#second{
+  color: #fff;
+  width: 100%;
+}
+
+.container1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 4vw 5vw;
+}
+
+.elem h4{
+  text-transform: capitalize;
+  font-size: 5vw;
+  opacity: 100;
+}
+
+.download-btn{
+  background-color: DodgerBlue;
+  color: white;
+  padding: 1rem 2rem;
+  font-size: 2rem;
+  text-decoration: none;
+  border-radius:5px;
+}
+
+.download-btn:hover {
+  background-color: RoyalBlue;
+}
