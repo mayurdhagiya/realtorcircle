@@ -1348,10 +1348,10 @@ main .call-action {
  .downloadbutton{
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  margin-left: 10%;
-  width: 80%;
-  padding: 5vw 5vw;
+  justify-content: center;
+  margin-left: 0%;
+  width: 100%;
+  padding: 1vw 1vw;
 }
 
  .download-btn{
