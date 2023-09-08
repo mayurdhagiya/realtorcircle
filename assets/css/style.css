@@ -1345,7 +1345,7 @@ main .call-action {
 
 /*# sourceMappingURL=style.css.map */
 
-.container1{
+main .main-wrapper.demo-06 .hero-area .container1{
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1353,7 +1353,7 @@ main .call-action {
   padding: 4vw 5vw;
 }
 
-.download-btn{
+main .main-wrapper.demo-06 .hero-area .download-btn{
   background-color: DodgerBlue;
   color: white;
   padding: 1rem 2rem;
@@ -1362,6 +1362,6 @@ main .call-action {
   border-radius:5px;
 }
 
-.download-btn:hover {
+main .main-wrapper.demo-06 .hero-area .download-btn:hover {
   background-color: RoyalBlue;
 }
