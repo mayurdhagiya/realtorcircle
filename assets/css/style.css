@@ -1353,7 +1353,7 @@ main .container1{
   padding: 4vw 5vw;
 }
 
-main .download-btn{
+main .container1 .download-btn{
   background-color: DodgerBlue;
   color: white;
   padding: 1rem 2rem;
@@ -1362,6 +1362,6 @@ main .download-btn{
   border-radius:5px;
 }
 
-main .download-btn:hover {
+main .container1 .download-btn:hover {
   background-color: RoyalBlue;
 }
