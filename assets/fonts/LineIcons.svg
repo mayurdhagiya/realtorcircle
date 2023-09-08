@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg">
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="https://www.w3.org/2000/svg">
 <metadata><json><![CDATA[{
 	"author": "LineIcons",
 	"description": "Handcrafted for Modern User Interfaces of Web, Android, iOS, and Desktop App Projects. A Complete Yet Most Simplified Free Icon Pack Available on The Web!",
 	"version": "2.0",
 	"copyright": "CreativeCommons",
-	"license": "https://lineicons.com/license/",
-	"url": "https://lineicons.com"
+	"license": "httpss://lineicons.com/license/",
+	"url": "httpss://lineicons.com"
 }]]></json></metadata>
 <defs>
   <font id="LineIcons" horiz-adv-x="256">
