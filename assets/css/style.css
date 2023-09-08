@@ -1345,25 +1345,12 @@ main .call-action {
 
 /*# sourceMappingURL=style.css.map */
 
-/* ICON */
-
-#second{
-  color: #fff;
-  width: 100%;
-}
-
 .container1{
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 100%;
   padding: 4vw 5vw;
-}
-
-.elem h4{
-  text-transform: capitalize;
-  font-size: 5vw;
-  opacity: 100;
 }
 
 .download-btn{
