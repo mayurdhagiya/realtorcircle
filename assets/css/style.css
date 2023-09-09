@@ -1355,6 +1355,9 @@ main .call-action {
 }
 
  .download-btn{
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
   background-color: DodgerBlue;
   color: white;
   padding: 1rem 2rem;
